@@ -85,7 +85,7 @@
     - **Sender MAC:** 一個隨機生成的、不存在的 MAC (例如 `DE:AD:BE:EF:00:00`)
 
 
-```
+```mermaid
 sequenceDiagram
     participant Client
     participant Device
